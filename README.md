@@ -1,2 +1,2 @@
 # Grouper
-Script to group files in a directory based on file extension.
+PowerShell script to group files into new directories based on file extension.
