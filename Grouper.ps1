@@ -1,5 +1,6 @@
 #############################################################
 # Script to group files into directories based on extension.#
+# I use it to organize the downloads directory.             #
 #############################################################
 
 $path = Read-Host "Enter the path you would like to have sorted: "
